@@ -1,16 +1,30 @@
-# hello_world
+# Laporan Praktikum
 
-A new Flutter project.
+NIM : 2241720087 <br>
+Nama : Kinata Dewa Ariandi <br>
+Kelas : TI 3B
 
-## Getting Started
+#
 
-This project is a starting point for a Flutter application.
+## Praktikum 1: Membuat Project Flutter Baru
 
-A few resources to get you started if this is your first Flutter project:
+New Aplication Project
+![alt text](image-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum 2: Menghubungkan Perangkat Android atau Emulator
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
+
+![alt text](image.png)
+
+### langkah 12
+![alt text](image-1.png)
+
+## Praktikum 4: Menerapkan Widget Dasar
+### Langkah 1: Text Widget
+![alt text](image-2.png)
+
+### Langkah 2: image Widget
+![alt text](image.png)
+
+## Praktikum 5: Menerapkan Widget Material Design dan iOS Cupertino
